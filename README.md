@@ -55,7 +55,6 @@ Berdasarkan konfigurasi IP yang sudah didapatkan, gambarkan tree VLSM nya.
 
 3) Testing
    Contoh, dilakukan testing dari LakeKorridor ke Aura.
-   ![image](https://github.com/wahyuandhikarizaldi/Jarkom-Modul-4-IT06-2023/assets/113814423/91fcd61b-77dd-4e1f-a250-3144d352e4b8)
    ![image](https://github.com/wahyuandhikarizaldi/Jarkom-Modul-4-IT06-2023/assets/113814423/239f3695-8b1c-4f5b-b6c7-9eed0430662e)
    ![image](https://github.com/wahyuandhikarizaldi/Jarkom-Modul-4-IT06-2023/assets/113814423/0d3c03b5-3294-456a-96cb-18288f92a23e)
 
