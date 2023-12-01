@@ -1,4 +1,4 @@
-# Jarkom-Modul-3-IT06-2023
+# Jarkom-Modul-4-IT06-2023
 **Modul 4 Jaringan Komputer 2023**
 
 ## Kelompok IT06
