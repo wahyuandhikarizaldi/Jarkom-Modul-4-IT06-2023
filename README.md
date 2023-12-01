@@ -15,7 +15,7 @@
 ![image](https://github.com/wahyuandhikarizaldi/Jarkom-Modul-4-IT06-2023/assets/113814423/4ea47002-c4cf-41e7-9724-9295d2c92ca9)
 
 ### Konfigurasi IP
-![image](https://github.com/wahyuandhikarizaldi/Jarkom-Modul-4-IT06-2023/assets/113814423/f4bc66e5-bfb8-48c6-99b9-8442765ae5ef)
+![image](https://github.com/wahyuandhikarizaldi/Jarkom-Modul-4-IT06-2023/assets/113814423/ff7baf78-a8a1-4353-a27a-e0693642f3bb)
 
 ### VLSM Tree
 ![image](https://github.com/wahyuandhikarizaldi/Jarkom-Modul-4-IT06-2023/assets/113814423/2c2c4633-cbdf-4e61-b50b-a6ccfa810ad4)
