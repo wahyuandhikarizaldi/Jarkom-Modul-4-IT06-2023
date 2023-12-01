@@ -27,3 +27,43 @@ Buat perhitungan dari subnet mask dari masing-masing subnet untuk menentukan pem
 Berdasarkan konfigurasi IP yang sudah didapatkan, gambarkan tree VLSM nya.
 ![image](https://github.com/wahyuandhikarizaldi/Jarkom-Modul-4-IT06-2023/assets/113814423/2c2c4633-cbdf-4e61-b50b-a6ccfa810ad4)
 
+### Konfigurasi di CPT
+1) Subnetting
+   Atur IP interface dari router yang mengarah ke client.
+   (Contoh: Subnet A2, Frieren -> Switch3 -> LakeKorridor)
+   ![image](https://github.com/wahyuandhikarizaldi/Jarkom-Modul-4-IT06-2023/assets/113814423/7ad90ecb-dc50-4411-b954-72d2be9f7adf)
+   Atur IP interface dari client yang mengarah ke router.
+   (Contoh: Subnet A2, LakeKorridor -> Switch3 -> Frieren)
+   ![image](https://github.com/wahyuandhikarizaldi/Jarkom-Modul-4-IT06-2023/assets/113814423/e2b876db-4800-4dbe-9a25-fd50e0f3a2d8)
+   ![image](https://github.com/wahyuandhikarizaldi/Jarkom-Modul-4-IT06-2023/assets/113814423/ca91bf8b-12cc-46ad-9c1f-671c2a854944)
+   Atur IP interface dari router utama yang mengarah ke router subnet.
+   (Contoh: Subnet A1, Aura -> Frieren)
+   ![image](https://github.com/wahyuandhikarizaldi/Jarkom-Modul-4-IT06-2023/assets/113814423/320e421c-9c7e-4b2e-a263-126b55154af8)
+   Atur IP interface dari router subnet yang mengarah ke router utama.
+   (Contoh: Subnet A1, Frieren -> Aura)
+   ![image](https://github.com/wahyuandhikarizaldi/Jarkom-Modul-4-IT06-2023/assets/113814423/4b9e023e-b2d4-419c-bd46-a54a76770f7d)
+   Lakukan untuk semua subnet.
+
+2) Routing
+   Atur default routing dari router subnet ke router utama.
+   (Contoh: Frieren -> Aura)
+   ![image](https://github.com/wahyuandhikarizaldi/Jarkom-Modul-4-IT06-2023/assets/113814423/0b5f2de4-ee3c-4c90-abff-97485bc67cc2)
+   Atur routing dari router utama ke subnet client.
+   (Contoh: Subnet A2, Aura -> Frieren)
+   ![image](https://github.com/wahyuandhikarizaldi/Jarkom-Modul-4-IT06-2023/assets/113814423/aebab359-1f79-487a-b107-4c50d4e9d572)
+   Lakukan untuk semua subnet.
+
+3) Testing
+   Contoh, dilakukan testing dari LakeKorridor ke Aura.
+   ![image](https://github.com/wahyuandhikarizaldi/Jarkom-Modul-4-IT06-2023/assets/113814423/91fcd61b-77dd-4e1f-a250-3144d352e4b8)
+   ![image](https://github.com/wahyuandhikarizaldi/Jarkom-Modul-4-IT06-2023/assets/113814423/239f3695-8b1c-4f5b-b6c7-9eed0430662e)
+   ![image](https://github.com/wahyuandhikarizaldi/Jarkom-Modul-4-IT06-2023/assets/113814423/0d3c03b5-3294-456a-96cb-18288f92a23e)
+
+
+## CIDR
+
+
+
+
+
+   
