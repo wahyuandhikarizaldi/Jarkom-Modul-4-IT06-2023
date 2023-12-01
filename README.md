@@ -12,7 +12,7 @@
 
 ## VLSM
 ### Rute dan Subnet Mask
-![image](https://github.com/wahyuandhikarizaldi/Jarkom-Modul-4-IT06-2023/assets/113814423/688f8f2b-2d42-481a-b857-794ff775a841)
+![image](https://github.com/wahyuandhikarizaldi/Jarkom-Modul-4-IT06-2023/assets/113814423/4ea47002-c4cf-41e7-9724-9295d2c92ca9)
 
 ### Konfigurasi IP
 ![image](https://github.com/wahyuandhikarizaldi/Jarkom-Modul-4-IT06-2023/assets/113814423/f4bc66e5-bfb8-48c6-99b9-8442765ae5ef)
