@@ -8,7 +8,7 @@
 |Sedtia Prakoso Budi Tirto Arto | 5027211014 |
 
 ## Topologi
-![image](https://github.com/wahyuandhikarizaldi/Jarkom-Modul-4-IT06-2023/assets/113814423/54a2feab-7492-4c5f-82a9-68a9cfb46117)
+![image](https://github.com/wahyuandhikarizaldi/Jarkom-Modul-4-IT06-2023/assets/113814423/705bb670-0093-4462-8dd0-dfffac76f60d)
 
 ## VLSM
 ### Rute dan Subnet Mask
@@ -19,3 +19,4 @@
 
 ### VLSM Tree
 ![image](https://github.com/wahyuandhikarizaldi/Jarkom-Modul-4-IT06-2023/assets/113814423/2c2c4633-cbdf-4e61-b50b-a6ccfa810ad4)
+
