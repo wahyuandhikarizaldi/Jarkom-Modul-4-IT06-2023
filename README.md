@@ -65,7 +65,7 @@ Berdasarkan konfigurasi IP yang sudah didapatkan, gambarkan tree VLSM nya.
 
 ### Konfigurasi IP
 Buat perhitungan dari subnet mask dari masing-masing subnet untuk menentukan pembagian konfigurasi IP.
-<img width="404" alt="image" src="https://github.com/wahyuandhikarizaldi/Jarkom-Modul-4-IT06-2023/assets/99130485/a9492bc3-85e3-4197-ae48-6038a75115fa">
+<img width="750" alt="image" src="https://github.com/wahyuandhikarizaldi/Jarkom-Modul-4-IT06-2023/assets/99130485/a9492bc3-85e3-4197-ae48-6038a75115fa">
 
 ### CIDR Tree
 Berdasarkan konfigurasi IP yang sudah didapatkan, gambarkan tree CIDR nya.
@@ -73,7 +73,7 @@ Berdasarkan konfigurasi IP yang sudah didapatkan, gambarkan tree CIDR nya.
 
 ### Penggabungan - CIDR
 Pada CIDR terdapat proses penggabungan subnet IP dari terkecil hingga menjadi satu kesatuan subnet
-<img width="500" alt="image" src="https://github.com/wahyuandhikarizaldi/Jarkom-Modul-4-IT06-2023/assets/99130485/fa9939eb-ed0d-4f91-9084-56c3b721b2fc">
+<img width="750" alt="image" src="https://github.com/wahyuandhikarizaldi/Jarkom-Modul-4-IT06-2023/assets/99130485/fa9939eb-ed0d-4f91-9084-56c3b721b2fc">
 
 
 
