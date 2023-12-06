@@ -73,7 +73,7 @@ Berdasarkan konfigurasi IP yang sudah didapatkan, gambarkan tree CIDR nya.
 
 ### Penggabungan - CIDR
 Pada CIDR terdapat proses penggabungan subnet IP dari terkecil hingga menjadi satu kesatuan subnet
-<img width="359" alt="image" src="https://github.com/wahyuandhikarizaldi/Jarkom-Modul-4-IT06-2023/assets/99130485/fa9939eb-ed0d-4f91-9084-56c3b721b2fc">
+<img width="500" alt="image" src="https://github.com/wahyuandhikarizaldi/Jarkom-Modul-4-IT06-2023/assets/99130485/fa9939eb-ed0d-4f91-9084-56c3b721b2fc">
 
 
 
