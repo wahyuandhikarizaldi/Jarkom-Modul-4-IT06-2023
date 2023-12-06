@@ -60,6 +60,25 @@ Berdasarkan konfigurasi IP yang sudah didapatkan, gambarkan tree VLSM nya.
 
 
 ## CIDR
+## Topologi GNS
+![CIDR](https://github.com/wahyuandhikarizaldi/Jarkom-Modul-4-IT06-2023/assets/99130485/bed9d12c-4ccc-4484-b596-f8f726866f59)
+
+### Konfigurasi IP
+Buat perhitungan dari subnet mask dari masing-masing subnet untuk menentukan pembagian konfigurasi IP.
+<img width="404" alt="image" src="https://github.com/wahyuandhikarizaldi/Jarkom-Modul-4-IT06-2023/assets/99130485/a9492bc3-85e3-4197-ae48-6038a75115fa">
+
+### CIDR Tree
+Berdasarkan konfigurasi IP yang sudah didapatkan, gambarkan tree CIDR nya.
+![modul4-cidr-tree](https://github.com/wahyuandhikarizaldi/Jarkom-Modul-4-IT06-2023/assets/99130485/2cbf3444-511d-4d73-a418-83dc3c420a73)
+
+### Penggabungan - CIDR
+Pada CIDR terdapat proses penggabungan subnet IP dari terkecil hingga menjadi satu kesatuan subnet
+<img width="359" alt="image" src="https://github.com/wahyuandhikarizaldi/Jarkom-Modul-4-IT06-2023/assets/99130485/fa9939eb-ed0d-4f91-9084-56c3b721b2fc">
+
+
+
+
+
 
 
 
